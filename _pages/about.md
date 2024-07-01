@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='https://www.ntu.edu.sg/'>College of Computing and Data Science, Nanyang Technological University, Signatpore</a>.
 
 profile:
   align: right
