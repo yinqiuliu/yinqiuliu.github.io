@@ -10,8 +10,8 @@ profile:
   image_circular: false # crops the image to make it circular
   address: >
     <p>50 Nanyang Avenue, Singapore 639798</p>
-    <p>Tel: (65) 88649318</p>
-    <p>Email: yinqiu001@e.ntu.edu.sg</p>
+    <p>(65) 88649318</p>
+    <p>yinqiu001@e.ntu.edu.sg</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
