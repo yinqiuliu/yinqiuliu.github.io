@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One first-author paper was accepted by IEEE TMC, in which we present a blockchain system to protect mobile AIGC services!
+One [first-author paper](https://arxiv.org/pdf/2404.08899) was accepted by IEEE TMC, in which we present a blockchain system to protect mobile AIGC services!
