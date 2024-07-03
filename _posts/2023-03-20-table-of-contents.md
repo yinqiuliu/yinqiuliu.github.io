@@ -1,7 +1,7 @@
 ---
 layout: post
 title: First Prize, 2024 SocMeta IEEE ComSoc SNTC Student Competition
-date: 2023-03-20 11:59:00-0400
+date: 2023-12-20 11:59:00-0400
 description: an example of a blog post with table of contents
 categories: sample-posts toc
 giscus_comments: true
