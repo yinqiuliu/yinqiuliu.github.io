@@ -52,25 +52,37 @@
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2024
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
+        - First Prize, 2024 SocMeta IEEE ComSoc SNTC Student Competition 
+    - year: 2023
       items: 
-        - Max Planck Medal
+        - Honorary Mention Award, 2023 IEEE ComSoc Student Competition
+        - NTU Research Scholarship
+    - year: 2022
+      items: 
+        - Honorary Mention Award, UCLA ECE 209-Engineering Interactive System Project
+    - year: 2020
+      items: 
+        - First-class Outstanding Undergraduate Thesis, Jiangsu Province, China
+    - year: 2018
+      items: 
+        - Merit Student, Nanjing University of Posts and Telecommunications
+        - First-class Scholarship, Nanjing University of Posts and Telecommunications
+        - Grand Prize, “Internet +” Entrepreneurship Competition, Nanjing University of Posts and Telecommunications
 
 - title: Academic Interests
   type: nested_list
   contents:
+    - title: Generative AI 
+      items:
+        - Diffusion Model for Networking Optimization
+        - Large Language Model and its Applications in Communications
     - title: Blockchain
       items: 
         - Lightweight Blockchain Systems
         - Sharding Blockchain Architectures
-    - title: Generative AI 
-      items:
-        - Diffusion Model for Networking Optimization
-        - Large Language Model and its applications
+
 
 - title: Other Interests
   type: list
