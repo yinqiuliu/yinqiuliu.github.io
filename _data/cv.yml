@@ -4,69 +4,50 @@
     - name: Full Name
       value: Yinqiu Liu
     - name: Date of Birth
-      value: 14th March 1879
+      value: 11th Sept. 1998
     - name: Languages
-      value: English, German
+      value: Chinese, English
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+      institution: Nanyang Technological University, Singapore
+      year: 2023-2026
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Supervised by Prof. Dusit Niyato
+    - title: Msc
+      institution: University of California, Los Angeles
+      year: 2022-2023
       description:
-        - Description 1.
-        - Description 2.
+        - Supervised by Prof. Lei He
+    - title: BEng
+      institution: Nanjing University of Posts and Telecommunications, China
+      year: 2016-2020
+      description:
+        - Supervised by Prof. Kun Wang
+    
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Research Intern
+      institution: Sun Yat-Sen University, China
+      year: 2022-present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Work with Prof. Huawei Huang
+    - title: Research Intern
+      institution: Southen University of Science and Technology
+      year: Mar. 2021-Jun. 2021
       description:
-        - Description 1.
-        - Description 2.
+        - Work with Prof. Quan Chen
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: Research Intern (Remote)
+      institution: University of California, Los Angeles
+      year: July. 2020-Feb. 2021
       description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+        - Work with Prof. Lei He
+    
 
 - title: Honors and Awards
   type: time_table
@@ -82,16 +63,16 @@
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Blockchain
       items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Lightweight Blockchain Systems
+        - Sharding Blockchain Architectures
+    - title: Generative AI 
       items:
-        - Description 1.
-        - Description 2.
+        - Diffusion Model for Networking Optimization
+        - Large Language Model and its applications
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Saxphone, Badminton, etc.
