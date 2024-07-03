@@ -2,11 +2,11 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description:
 nav: true
 nav_order: 5
 ---
 
-CS 3010, Computer Security, NTU, Spring Semester, 2024
+CS 3010, Computer Security, NTU, *Spring Semester, 2024*
 
-ECE188.1 Engineering Interactive Systems, UCLA, Fall Quarter, 2022
+ECE188.1 Engineering Interactive Systems, UCLA, *Fall Quarter, 2022*
