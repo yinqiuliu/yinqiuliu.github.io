@@ -4,7 +4,7 @@ title: First Prize, 2024 SocMeta IEEE ComSoc SNTC Student Competition
 date: 2023-12-20 11:59:00-0400
 description: 
 categories: sample-posts toc
-redirect: /assets/pdf/award2.jpeg
+redirect: /assets/img/award2.jpeg
 related_posts: false
 toc: true
 ---
