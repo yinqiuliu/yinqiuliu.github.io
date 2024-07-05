@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
+title: Yinqiu Liu's Home Page # the website title (if blank, full name will be used instead)
 first_name: Yinqiu Liu
 middle_name:
 last_name: (刘寅秋）
@@ -71,7 +71,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: lancelot98911 # your GitHub user name
+github_username: Lancelot1998 # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: # your Twitter handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
