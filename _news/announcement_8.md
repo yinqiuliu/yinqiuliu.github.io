@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-We arrived in Suwon, South Korea, and will start our visit at Sungkyunkwan University, hosted by Prof. Dong In Kim.
+I arrived in Suwon, South Korea, and will start the visit at [Sungkyunkwan University](https://www.skku.edu/eng/index.do), hosted by Prof. [Dong In Kim](https://vtsociety.org/contact/dong-kim).
