@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One co-authored paper is accepted by IEEE JSAC, in which we explore the design of LLM-based agents for satellite communications modeling and DRL with the mixture-of-experts architecture to solve optimization problems.
+One co-authored paper was accepted by IEEE JSAC, in which we explore the design of LLM-based agents for satellite communications modeling and DRL with the mixture-of-experts architecture to solve optimization problems.
