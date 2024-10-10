@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-Two coauthored papers were accepted by IEEE TVT, and one coauthored paper was accepted by ASP-DAC 25. Congrats to the collaborators!
+Two coauthored papers were accepted by IEEE TVT, and one coauthored paper was accepted by ASP-DAC 25. Congrats to my collaborators!
 
