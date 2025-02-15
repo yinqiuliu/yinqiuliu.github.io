@@ -27,5 +27,5 @@ My research is primarily centered around the utilization of **Generative AI (Gen
 
 Our research has been published in prestigious networking journals and conferences, including *IEEE JSAC, IEEE TMC, IEEE COMST, IEEE TII, IEEE IoTJ, IEEE INFOCOM, ACM FPGA, IEEE ICC, IEEE Globecom*, etc. 
 
-Also, I serve as the reviewer/TPC member for various journals/conferences, including *IEEE TIFS, IEEE COMST, IEEE TSC, IEEE TCOM, IEEE TNSE, IEEE IoTJ, IEEE Globecom' 24, IEEE/CIC ICCC' 24, IEEE PIMRC' 24, IEEE VTC-Fall' 24, IEEE ICNC' 25, IEEE GIIS' 25, IEEE ICASSP' 25, NeruIPS' 25 SafeGenAi, AAAI' 25 UC, IEEE ICC' 25* etc.
+Also, I serve as the reviewer/TPC member for various journals/conferences, including *IEEE TIFS, IEEE COMST, IEEE TSC, IEEE TCOM, IEEE TNSE, IEEE IoTJ, IEEE Globecom' 24, IEEE/CIC ICCC' 24, IEEE PIMRC' 24, IEEE VTC-Fall' 24, IEEE ICNC' 25, IEEE GIIS' 25, IEEE ICASSP' 25, NeruIPS' 25 SafeGenAi, ICLR' 25, AAAI' 25 UC, IEEE ICC' 25* etc.
 
