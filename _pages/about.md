@@ -23,7 +23,7 @@ Hi! I am currently a PhD candidate at the College of Computing and Data Science,
 
 Prior to this, I obtained a BEng degree at [Nanjing University of Posts and Telecommunications](https://www.njupt.edu.cn/), China, under the guidance of Prof. [Kun Wang](http://eda.ee.ucla.edu/people/kun-wang/index.html) (SMIEEE, now a professor with [Fudan University](https://www.fudan.edu.cn/en/), China) and an MSc degree at the [University of California, Los Angeles (UCLA)](https://www.ucla.edu/), USA, under the guidance of Prof. [Lei He](http://eda.ee.ucla.edu/) (FIEEE).
 
-My research is primarily centered around the utilization of **Generative AI (GenAI) in intelligent networking**. Our key objective is to explore "[how the intelligent networks can support various AI-Generated Content (AIGC) services]()," and "[how GenAI and Large Language Model (LLM) can be used to improve the performance, security, and reliability of next-generation networking.]()" Please check our [group](https://jyc5559.github.io/GAINET.github.io/) at NTU for more details!
+My research is primarily centered around the utilization of **Generative AI (GenAI) in intelligent networking**. Our key objective is to explore "[how the intelligent networks can support various AI-Generated Content (AIGC) services]()," and "[how GenAI (and LLM) can be used to improve the performance, security, and reliability of next-generation networking.]()" Please check our [group](https://jyc5559.github.io/GAINET.github.io/) at NTU for more details!
 
 Our research has been published in prestigious networking journals and conferences, including *IEEE JSAC, IEEE TMC, IEEE COMST, IEEE TII, IEEE IoTJ, IEEE INFOCOM, ACM FPGA, IEEE ICC, IEEE Globecom*, etc. 
 
