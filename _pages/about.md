@@ -25,7 +25,7 @@ Prior to this, I obtained a BEng degree at [Nanjing University of Posts and Tele
 
 My research is primarily centered around the utilization of **Generative AI (GenAI) in intelligent networking**. Our key objective is to explore "[how the intelligent networks can support various AI-Generated Content (AIGC) services]()," and "[how GenAI (and LLM) can be used to improve the performance, security, and reliability of next-generation networking.]()" Please check our [group](https://jyc5559.github.io/GAINET.github.io/) at NTU for more details!
 
-Our research has been published in prestigious networking journals and conferences, including *IEEE JSAC, IEEE TMC, IEEE COMST, IEEE TII, IEEE IoTJ, IEEE INFOCOM, ACM FPGA, IEEE ICC, IEEE Globecom*, etc. 
+Our research has been published in prestigious networking journals and conferences, including *IEEE JSAC, IEEE TMC, IEEE TIFS, IEEE COMST, IEEE INFOCOM, ACM FPGA*, etc. 
 
-Also, I serve as the reviewer/TPC member for various journals/conferences, including *IEEE TIFS, IEEE COMST, IEEE TSC, IEEE TCOM, IEEE TNSE, IEEE IoTJ, IEEE Globecom' 24, IEEE/CIC ICCC' 24, IEEE PIMRC' 24, IEEE VTC-Fall' 24, IEEE ICNC' 25, IEEE GIIS' 25, IEEE ICASSP' 25, NeruIPS' 25 SafeGenAi, ICLR' 25, AAAI' 25 UC, IEEE ICC' 25* etc.
+I have been recognized with multiple prestigious accolades, including the 2025 IEEE Vehicular Technology Society (VTS) Student Scholarship Award. My research contributions have earned Best Paper Awards at *IEEE WCSP '25*, *IEEE AIoTC '25*, and *IEEE IWCMC '25*, as well as First Place in the IEEE SPCC Student Contest. Additionally, I received the Outstanding Undergraduate Thesis Award from Jiangsu Province, China. As a team leader, I also guided my team to win the Silver Award in the 2024 IEEE ComSoc SocMeta Student Contest and an Honorable Mention in the 2024 IEEE ComSoc Student Competition.
 
