@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One first-author is accepted by IEEE JSAC!
+One first-author paper is accepted by IEEE JSAC!
