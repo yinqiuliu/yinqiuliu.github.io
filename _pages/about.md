@@ -19,9 +19,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi! I am currently a research associate at the College of Computing and Data Science, [NTU](https://www.ntu.edu.sg/), Singapore, working with Prof. [Dusit Niyato](https://personal.ntu.edu.sg/dniyato/) (FIEEE).
+Hi! I am currently a PhD candidate at the College of Computing and Data Science, [NTU](https://www.ntu.edu.sg/), Singapore, working with Prof. [Dusit Niyato](https://personal.ntu.edu.sg/dniyato/) (FIEEE).
 
-Prior to this, I was a PhD candidate supervised by Prof. Dusit. I obtained my BEng degree at [Nanjing University of Posts and Telecommunications](https://www.njupt.edu.cn/), China, under the guidance of Prof. [Kun Wang](http://eda.ee.ucla.edu/people/kun-wang/index.html) (now a professor with Fudan University, China) and my MSc degree at the [University of California, Los Angeles (UCLA)](https://www.ucla.edu/), USA, under the guidance of Prof. [Lei He](http://eda.ee.ucla.edu/) (FIEEE).
+Prior to this, I obtained my BEng degree at [Nanjing University of Posts and Telecommunications](https://www.njupt.edu.cn/), China, under the guidance of Prof. [Kun Wang](http://eda.ee.ucla.edu/people/kun-wang/index.html) (now a professor with Fudan University, China) and my MSc degree at the [University of California, Los Angeles (UCLA)](https://www.ucla.edu/), USA, under the guidance of Prof. [Lei He](http://eda.ee.ucla.edu/) (FIEEE).
 
 My research is primarily centered around the utilization of **Generative AI (GenAI) in intelligent networking**. Our key objective is to explore "[how the intelligent networks can support various AI-Generated Content (AIGC) services]()," and "[how GenAI (and LLM) can be used to improve the performance, security, and reliability of next-generation networking.]()" Please check our [group](https://jyc5559.github.io/GAINET.github.io/) at NTU for more details!
 
