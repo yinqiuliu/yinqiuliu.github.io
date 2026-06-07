@@ -19,7 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi! I am currently a Researcher at the College of Computing and Data Science, [NTU](https://www.ntu.edu.sg/), Singapore, supervised by Prof. [Dusit Niyato](https://personal.ntu.edu.sg/dniyato/) (FIEEE).
+Hi! I am currently a Researcher at the College of Computing and Data Science, [NTU](https://www.ntu.edu.sg/), Singapore.
 
 Prior to this, I obtained my BEng degree from [Nanjing University of Posts and Telecommunications](https://www.njupt.edu.cn/), China, under the guidance of Prof. [Kun Wang](http://eda.ee.ucla.edu/people/kun-wang/index.html) (now a professor with Fudan University, China), my MSc degree from the [University of California, Los Angeles (UCLA)](https://www.ucla.edu/), USA, under the guidance of Prof. [Lei He](http://eda.ee.ucla.edu/) (FIEEE).
 
